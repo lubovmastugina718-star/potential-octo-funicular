@@ -3,3 +3,7 @@
 Initial commit.
 
 # Add error handling
+
+## Update
+
+Fix typo in README
