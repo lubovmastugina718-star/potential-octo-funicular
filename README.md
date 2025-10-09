@@ -7,3 +7,7 @@ Initial commit.
 ## Update
 
 Fix typo in README
+
+## Update
+
+Update .gitignore
