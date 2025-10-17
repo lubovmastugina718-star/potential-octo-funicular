@@ -11,3 +11,5 @@ Fix typo in README
 ## Update
 
 Update .gitignore
+
+# Update build script
