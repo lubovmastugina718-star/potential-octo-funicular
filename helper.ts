@@ -1,0 +1,3 @@
+interface helper {
+    value: string;
+}
