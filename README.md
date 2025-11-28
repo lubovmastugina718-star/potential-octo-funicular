@@ -23,3 +23,7 @@ Add unit tests
 ## Update
 
 Update README with examples
+
+## Update
+
+Add retry logic
