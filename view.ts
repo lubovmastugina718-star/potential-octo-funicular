@@ -1,0 +1,3 @@
+interface view {
+    value: string;
+}
