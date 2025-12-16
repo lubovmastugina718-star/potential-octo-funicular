@@ -27,3 +27,7 @@ Update README with examples
 ## Update
 
 Add retry logic
+
+## Update
+
+Improve error messages
