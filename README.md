@@ -31,3 +31,7 @@ Add retry logic
 ## Update
 
 Improve error messages
+
+## Update
+
+Fix bug in validation
