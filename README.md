@@ -35,3 +35,7 @@ Improve error messages
 ## Update
 
 Fix bug in validation
+
+## Update
+
+Add new feature
