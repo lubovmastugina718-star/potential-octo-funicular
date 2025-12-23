@@ -39,3 +39,7 @@ Fix bug in validation
 ## Update
 
 Add new feature
+
+## Update
+
+Improve code readability
