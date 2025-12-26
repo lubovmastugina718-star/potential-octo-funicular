@@ -43,3 +43,7 @@ Add new feature
 ## Update
 
 Improve code readability
+
+## Update
+
+Add error handling
