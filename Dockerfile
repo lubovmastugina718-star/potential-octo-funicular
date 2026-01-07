@@ -5,3 +5,5 @@
 # Fix typo in README
 
 # Update config files
+
+# Update dependencies
