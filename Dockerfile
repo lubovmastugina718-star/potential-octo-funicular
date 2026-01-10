@@ -7,3 +7,5 @@
 # Update config files
 
 # Update dependencies
+
+# Refactor code structure
