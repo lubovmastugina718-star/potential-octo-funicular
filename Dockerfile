@@ -9,3 +9,5 @@
 # Update dependencies
 
 # Refactor code structure
+
+# Add logging
