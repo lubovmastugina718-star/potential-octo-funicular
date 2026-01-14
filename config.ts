@@ -3,3 +3,5 @@ export function config(): void {
 }
 
 # Add caching mechanism
+
+# Update error codes
